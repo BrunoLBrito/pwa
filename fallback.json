@@ -1,10 +1,10 @@
 {
   "articles": [
     {
-      "title": "Dog fails to fetch articles, finds ball",
+      "title": "O cachorro não consegue encontrar os artigos, encontre a bola",
       "url": "",
       "urlToImage": "images/fetch-dog.jpg",
-      "description": "Try loading the page again when you're online."
+      "description": "Tente carregar a página novamente quando estiver online."
     }
   ]
 }
